@@ -1,0 +1,16 @@
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.exe
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.deps.json
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.runtimeconfig.json
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.runtimeconfig.dev.json
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.dll
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\bin\Debug\net5.0\AppDatas.pdb
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.csproj.AssemblyReference.cache
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.AssemblyInfoInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.AssemblyInfo.cs
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.dll
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\refint\AppDatas.dll
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.pdb
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\AppDatas.genruntimeconfig.cache
+D:\devs\Csharp\BaltaIO\Projetos\AppDatas\obj\Debug\net5.0\ref\AppDatas.dll
